@@ -4,3 +4,11 @@ Suspension_Coil.csv
 #ignore mechacar csv
 
 MechaCar_mpg.csv
+
+#ignore history
+
+.Rhistory
+
+#data
+
+.R.Data
