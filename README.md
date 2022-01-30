@@ -1,4 +1,6 @@
 # MechaCar_Statistical_Analysis
+ For this module's challenge, we used multiple linear regression analysis to detetermine which variables in our dataset predicted the mpg for MechaCar prototypes. We also analyzed summary statistics on PSI for certain manufacturing lots and their statistics compared to the population. 
+
 
 ## Linear Regression to Predict MPG
 1.Vehicle length and ground clearance provide the non random amount of variance within this data set where the other metrics which are vehicle weight, spoiler angle and awd are not really as correlated. 
