@@ -47,7 +47,7 @@ Key metrics that will be used in the study:
   - Horsepower
   - Safety Rating
   - Different types of models
-  - Annual expemnses
+  - Annual expenses
 
 Hypothosis:
 Null hypothosis: Mechacar is more cost efficient vs other brands in regards to annual cost for the vehicle type.
