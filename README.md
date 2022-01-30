@@ -54,4 +54,4 @@ Null hypothosis: Mechacar is more cost efficient vs other brands in regards to a
 Alternative : Mechacar is not more cost efficient vs other brands for the vehicle type.
 
 Statisical tests:
-I would do the same tests that we did in this challenge to compare vehicles. I would run regression analysis to test multiple factors and determine the higher correlation to the cost of the annual expenses for the vehicles. 
+I would do the same tests that we did in this challenge to compare vehicles. I would run regression analysis to test multiple factors and determine which factors are closely related to the annual cost of the prototype vehicles and their competitors. 
